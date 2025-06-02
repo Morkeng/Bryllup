@@ -5,7 +5,7 @@ function App() {
     const [timeLeft, setTimeLeft] = useState('');
 
     useEffect(() => {
-        const targetDate = new Date('2025-08-01T00:00:00');
+        const targetDate = new Date('2026-08-01T00:00:00');
         const interval = setInterval(() => {
             const now = new Date();
             const difference = targetDate - now;

@@ -1,12 +1,23 @@
-# React + Vite
+# 💍 Bryllup – Nettside for Karoline & Hans
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Velkommen til den offisielle nettsiden for vårt bryllup! Her finner du all informasjon du trenger for den store dagen – fra tid og sted til påmelding og gaveønsker.
 
-Currently, two official plugins are available:
+## 🌐 Nettsiden
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 Besøk nettsiden her
 
-## Expanding the ESLint configuration
+## 📦 Teknologi
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Dette prosjektet er bygget med:
+
+- React
+- Vite
+- GitHub Pages for hosting
+
+## 🚀 Kom i gang lokalt
+
+1. Klon repoet:
+   ```bash
+   git clone https://github.com/Morkeng/Bryllup.git
+   cd Bryllup
+   ```

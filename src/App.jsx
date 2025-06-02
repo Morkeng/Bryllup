@@ -8,11 +8,13 @@ import Details from './pages/Details';
 import RSVP from './pages/RSVP';
 import NotFound from './pages/NotFound';
 import Navbar from './components/Navbar';
+import LanguageSwitcher from './components/LanguageSwitcher';
 
 
 function App() {
 
     return (
+       <>
         <Router basename="/Bryllup">
             <Navbar/>
             <Routes>
@@ -23,6 +25,7 @@ function App() {
                 <Route path="*" element={<NotFound/>}/>
             </Routes>
         </Router>
+       </>
     );
 }
 
